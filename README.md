@@ -19,7 +19,3 @@ This project demonstrates the basics of machine learning and natural language pr
    ```bash
    git clone https://github.com/USERNAME/chatbot-project.git
    cd chatbot-project
-  
-
-
-
