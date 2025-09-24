@@ -24,6 +24,7 @@ This project demonstrates the basics of machine learning and natural language pr
 source venv/bin/activate   # On Linux/Mac
 venv\Scripts\activate      # On Windows
 3.Install dependencies
+pip install -r requirements.txt
 
-Usage
+
 
