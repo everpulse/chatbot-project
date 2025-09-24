@@ -20,9 +20,6 @@ This project demonstrates the basics of machine learning and natural language pr
    git clone https://github.com/USERNAME/chatbot-project.git
    cd chatbot-project
   
-venv\Scripts\activate      # On Windows
-3.Install dependencies
-pip install -r requirements.txt
 
 
 
